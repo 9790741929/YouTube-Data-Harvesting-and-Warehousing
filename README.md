@@ -1,7 +1,7 @@
 # YouTube-Data-Harvesting-and-Warehousing -A Project By Guvi
 
 **LinkedIn :** https://www.linkedin.com/in/sumaiya-sulthana-906876137
-**Output Link Video: https:**//drive.google.com/file/d/1j21V29Ze77jsyGylgWF35PWSdgL5Pm8f/view?usp=drive_link
+**Output Link Video:** https://drive.google.com/file/d/1j21V29Ze77jsyGylgWF35PWSdgL5Pm8f/view?usp=drive_link
 
 **Youtube-Data-Harvesting-And-Warehousing** is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query the YouTube channels,videos and comment data.
 
